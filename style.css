@@ -2,18 +2,25 @@ html {
   color: rgb(8, 8, 8)
 }
 
-/* body elemanının arkaplan rengini #e79947, margin değerini 0 yapın. */
+
+body{
+  color: #e79947;
+  margin: 0;
+}
 
 
-/* h1 için yazı karakteri büyüklüğünü 60px yapın ve yazıyı ortalayın */
+h1{
+  font-size: 60px;
+  text-align: center;
+}
 
 
-/*
-  nav etiketine verdiğin mainMenu classını oluştur ve şunları sağla
-  - menü için oluşturduğun linkler ortalansın
-  - iç boşluk değeri 10px olsun
-  - yazı büyüklüğü 20px
-*/
+.mainMenu{
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+}
+
 
 
 /*

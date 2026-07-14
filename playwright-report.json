@@ -89,12 +89,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 21,
+                      "duration": 23,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-14T10:25:58.493Z",
+                      "startTime": "2026-07-14T10:55:33.585Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -123,12 +123,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 9,
+                      "duration": 11,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-14T10:25:58.804Z",
+                      "startTime": "2026-07-14T10:55:33.896Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -157,12 +157,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 3,
+                      "duration": 2,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-14T10:25:58.820Z",
+                      "startTime": "2026-07-14T10:55:33.914Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -191,12 +191,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 5,
+                      "duration": 4,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-14T10:25:58.830Z",
+                      "startTime": "2026-07-14T10:55:33.924Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -230,7 +230,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-14T10:25:58.842Z",
+                      "startTime": "2026-07-14T10:55:33.935Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -264,7 +264,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-14T10:25:58.861Z",
+                      "startTime": "2026-07-14T10:55:33.956Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -298,7 +298,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-14T10:25:58.871Z",
+                      "startTime": "2026-07-14T10:55:33.966Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -332,7 +332,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-14T10:25:58.884Z",
+                      "startTime": "2026-07-14T10:55:33.979Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -366,7 +366,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-14T10:25:58.894Z",
+                      "startTime": "2026-07-14T10:55:33.990Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -400,7 +400,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-14T10:25:58.915Z",
+                      "startTime": "2026-07-14T10:55:34.012Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -429,7 +429,7 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 18,
+                      "duration": 19,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"rgb\u001b[7m(231, 153, 71\u001b[27m)\"\u001b[39m\nReceived: \u001b[31m\"rgb\u001b[7ma(0, 0, 0, 0\u001b[27m)\"\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"rgb\u001b[7m(231, 153, 71\u001b[27m)\"\u001b[39m\nReceived: \u001b[31m\"rgb\u001b[7ma(0, 0, 0, 0\u001b[27m)\"\u001b[39m\n    at C:\\Users\\CYBORG\\Documents\\GitHub\\s3-restoran\\tests\\main.spec.js:103:35",
@@ -453,7 +453,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-14T10:25:58.929Z",
+                      "startTime": "2026-07-14T10:55:34.026Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -479,7 +479,7 @@
             },
             {
               "title": "h1 stil: font-size ve text-align",
-              "ok": false,
+              "ok": true,
               "tags": [],
               "tests": [
                 {
@@ -492,48 +492,18 @@
                     {
                       "workerIndex": 1,
                       "parallelIndex": 0,
-                      "status": "failed",
-                      "duration": 48,
-                      "error": {
-                        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m60\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7m32\u001b[27mpx\"\u001b[39m",
-                        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m60\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7m32\u001b[27mpx\"\u001b[39m\n    at C:\\Users\\CYBORG\\Documents\\GitHub\\s3-restoran\\tests\\main.spec.js:110:28",
-                        "location": {
-                          "file": "C:\\Users\\CYBORG\\Documents\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                          "column": 28,
-                          "line": 110
-                        },
-                        "snippet": "\u001b[0m \u001b[90m 108 |\u001b[39m     \u001b[36mconst\u001b[39m h1 \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m\"h1\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 109 |\u001b[39m     \u001b[36mconst\u001b[39m style \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mevaluate((el) \u001b[33m=>\u001b[39m getComputedStyle(el)\u001b[33m,\u001b[39m h1)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 110 |\u001b[39m     expect(style\u001b[33m.\u001b[39mfontSize)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"60px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 111 |\u001b[39m     expect(style\u001b[33m.\u001b[39mtextAlign)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"center\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 112 |\u001b[39m   })\u001b[33m;\u001b[39m\n \u001b[90m 113 |\u001b[39m\u001b[0m"
-                      },
-                      "errors": [
-                        {
-                          "location": {
-                            "file": "C:\\Users\\CYBORG\\Documents\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                            "column": 28,
-                            "line": 110
-                          },
-                          "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m60\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7m32\u001b[27mpx\"\u001b[39m\n\n\u001b[0m \u001b[90m 108 |\u001b[39m     \u001b[36mconst\u001b[39m h1 \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m\"h1\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 109 |\u001b[39m     \u001b[36mconst\u001b[39m style \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mevaluate((el) \u001b[33m=>\u001b[39m getComputedStyle(el)\u001b[33m,\u001b[39m h1)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 110 |\u001b[39m     expect(style\u001b[33m.\u001b[39mfontSize)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"60px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 111 |\u001b[39m     expect(style\u001b[33m.\u001b[39mtextAlign)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"center\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 112 |\u001b[39m   })\u001b[33m;\u001b[39m\n \u001b[90m 113 |\u001b[39m\u001b[0m\n\u001b[2m    at C:\\Users\\CYBORG\\Documents\\GitHub\\s3-restoran\\tests\\main.spec.js:110:28\u001b[22m"
-                        }
-                      ],
+                      "status": "passed",
+                      "duration": 43,
+                      "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-14T10:26:00.500Z",
+                      "startTime": "2026-07-14T10:55:34.565Z",
                       "annotations": [],
-                      "attachments": [
-                        {
-                          "name": "error-context",
-                          "contentType": "text/markdown",
-                          "path": "C:\\Users\\CYBORG\\Documents\\GitHub\\s3-restoran\\.test-results\\tests-main-HTML-ve-CSS-Gör-3bc2e-til-font-size-ve-text-align\\error-context.md"
-                        }
-                      ],
-                      "errorLocation": {
-                        "file": "C:\\Users\\CYBORG\\Documents\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                        "column": 28,
-                        "line": 110
-                      }
+                      "attachments": []
                     }
                   ],
-                  "status": "unexpected"
+                  "status": "expected"
                 }
               ],
               "id": "45e6f71b65db145e0a88-664359cce7408c1896d9",
@@ -543,7 +513,7 @@
             },
             {
               "title": "mainMenu nav stil: text-align, padding, font-size",
-              "ok": false,
+              "ok": true,
               "tags": [],
               "tests": [
                 {
@@ -554,50 +524,20 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 2,
+                      "workerIndex": 1,
                       "parallelIndex": 0,
-                      "status": "failed",
-                      "duration": 53,
-                      "error": {
-                        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"center\"\u001b[39m\nReceived: \u001b[31m\"start\"\u001b[39m",
-                        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"center\"\u001b[39m\nReceived: \u001b[31m\"start\"\u001b[39m\n    at C:\\Users\\CYBORG\\Documents\\GitHub\\s3-restoran\\tests\\main.spec.js:117:29",
-                        "location": {
-                          "file": "C:\\Users\\CYBORG\\Documents\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                          "column": 29,
-                          "line": 117
-                        },
-                        "snippet": "\u001b[0m \u001b[90m 115 |\u001b[39m     \u001b[36mconst\u001b[39m nav \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m\"nav.mainMenu\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 116 |\u001b[39m     \u001b[36mconst\u001b[39m style \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mevaluate((el) \u001b[33m=>\u001b[39m getComputedStyle(el)\u001b[33m,\u001b[39m nav)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 117 |\u001b[39m     expect(style\u001b[33m.\u001b[39mtextAlign)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"center\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                             \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 118 |\u001b[39m     expect(style\u001b[33m.\u001b[39mpadding)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"10px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 119 |\u001b[39m     expect(style\u001b[33m.\u001b[39mfontSize)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"20px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 120 |\u001b[39m   })\u001b[33m;\u001b[39m\u001b[0m"
-                      },
-                      "errors": [
-                        {
-                          "location": {
-                            "file": "C:\\Users\\CYBORG\\Documents\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                            "column": 29,
-                            "line": 117
-                          },
-                          "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"center\"\u001b[39m\nReceived: \u001b[31m\"start\"\u001b[39m\n\n\u001b[0m \u001b[90m 115 |\u001b[39m     \u001b[36mconst\u001b[39m nav \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m\"nav.mainMenu\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 116 |\u001b[39m     \u001b[36mconst\u001b[39m style \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mevaluate((el) \u001b[33m=>\u001b[39m getComputedStyle(el)\u001b[33m,\u001b[39m nav)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 117 |\u001b[39m     expect(style\u001b[33m.\u001b[39mtextAlign)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"center\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                             \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 118 |\u001b[39m     expect(style\u001b[33m.\u001b[39mpadding)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"10px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 119 |\u001b[39m     expect(style\u001b[33m.\u001b[39mfontSize)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"20px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 120 |\u001b[39m   })\u001b[33m;\u001b[39m\u001b[0m\n\u001b[2m    at C:\\Users\\CYBORG\\Documents\\GitHub\\s3-restoran\\tests\\main.spec.js:117:29\u001b[22m"
-                        }
-                      ],
+                      "status": "passed",
+                      "duration": 18,
+                      "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-14T10:26:01.438Z",
+                      "startTime": "2026-07-14T10:55:35.056Z",
                       "annotations": [],
-                      "attachments": [
-                        {
-                          "name": "error-context",
-                          "contentType": "text/markdown",
-                          "path": "C:\\Users\\CYBORG\\Documents\\GitHub\\s3-restoran\\.test-results\\tests-main-HTML-ve-CSS-Gör-473ff-ext-align-padding-font-size\\error-context.md"
-                        }
-                      ],
-                      "errorLocation": {
-                        "file": "C:\\Users\\CYBORG\\Documents\\GitHub\\s3-restoran\\tests\\main.spec.js",
-                        "column": 29,
-                        "line": 117
-                      }
+                      "attachments": []
                     }
                   ],
-                  "status": "unexpected"
+                  "status": "expected"
                 }
               ],
               "id": "45e6f71b65db145e0a88-68933b264c09bce75ad4",
@@ -618,10 +558,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 3,
+                      "workerIndex": 1,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 44,
+                      "duration": 19,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"1\u001b[7m5\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"1\u001b[7m6\u001b[27mpx\"\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"1\u001b[7m5\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"1\u001b[7m6\u001b[27mpx\"\u001b[39m\n    at C:\\Users\\CYBORG\\Documents\\GitHub\\s3-restoran\\tests\\main.spec.js:125:28",
@@ -645,7 +585,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-14T10:26:02.313Z",
+                      "startTime": "2026-07-14T10:55:35.083Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -682,10 +622,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 4,
+                      "workerIndex": 2,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 47,
+                      "duration": 48,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m1\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"0px\"\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m1\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"0px\"\u001b[39m\n    at C:\\Users\\CYBORG\\Documents\\GitHub\\s3-restoran\\tests\\main.spec.js:135:32",
@@ -709,7 +649,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-14T10:26:03.273Z",
+                      "startTime": "2026-07-14T10:55:35.521Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -746,10 +686,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 5,
+                      "workerIndex": 3,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 44,
+                      "duration": 46,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m1\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"0px\"\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m1\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"0px\"\u001b[39m\n    at C:\\Users\\CYBORG\\Documents\\GitHub\\s3-restoran\\tests\\main.spec.js:142:30",
@@ -773,7 +713,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-14T10:26:04.187Z",
+                      "startTime": "2026-07-14T10:55:36.493Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -810,13 +750,13 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 6,
+                      "workerIndex": 4,
                       "parallelIndex": 0,
                       "status": "failed",
                       "duration": 44,
                       "error": {
-                        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m750\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7m1264\u001b[27mpx\"\u001b[39m",
-                        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m750\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7m1264\u001b[27mpx\"\u001b[39m\n    at C:\\Users\\CYBORG\\Documents\\GitHub\\s3-restoran\\tests\\main.spec.js:150:25",
+                        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m75\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7m128\u001b[27m0px\"\u001b[39m",
+                        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m75\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7m128\u001b[27m0px\"\u001b[39m\n    at C:\\Users\\CYBORG\\Documents\\GitHub\\s3-restoran\\tests\\main.spec.js:150:25",
                         "location": {
                           "file": "C:\\Users\\CYBORG\\Documents\\GitHub\\s3-restoran\\tests\\main.spec.js",
                           "column": 25,
@@ -831,13 +771,13 @@
                             "column": 25,
                             "line": 150
                           },
-                          "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m750\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7m1264\u001b[27mpx\"\u001b[39m\n\n\u001b[0m \u001b[90m 148 |\u001b[39m     \u001b[36mconst\u001b[39m container \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m\".container\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 149 |\u001b[39m     \u001b[36mconst\u001b[39m style \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mevaluate((el) \u001b[33m=>\u001b[39m getComputedStyle(el)\u001b[33m,\u001b[39m container)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 150 |\u001b[39m     expect(style\u001b[33m.\u001b[39mwidth)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"750px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 151 |\u001b[39m     expect(style\u001b[33m.\u001b[39mbackgroundColor)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"rgb(255, 255, 255)\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 152 |\u001b[39m     expect(style\u001b[33m.\u001b[39mpadding)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"50px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 153 |\u001b[39m   })\u001b[33m;\u001b[39m\u001b[0m\n\u001b[2m    at C:\\Users\\CYBORG\\Documents\\GitHub\\s3-restoran\\tests\\main.spec.js:150:25\u001b[22m"
+                          "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m75\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7m128\u001b[27m0px\"\u001b[39m\n\n\u001b[0m \u001b[90m 148 |\u001b[39m     \u001b[36mconst\u001b[39m container \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m\".container\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 149 |\u001b[39m     \u001b[36mconst\u001b[39m style \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mevaluate((el) \u001b[33m=>\u001b[39m getComputedStyle(el)\u001b[33m,\u001b[39m container)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 150 |\u001b[39m     expect(style\u001b[33m.\u001b[39mwidth)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"750px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 151 |\u001b[39m     expect(style\u001b[33m.\u001b[39mbackgroundColor)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"rgb(255, 255, 255)\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 152 |\u001b[39m     expect(style\u001b[33m.\u001b[39mpadding)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"50px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 153 |\u001b[39m   })\u001b[33m;\u001b[39m\u001b[0m\n\u001b[2m    at C:\\Users\\CYBORG\\Documents\\GitHub\\s3-restoran\\tests\\main.spec.js:150:25\u001b[22m"
                         }
                       ],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-07-14T10:26:05.106Z",
+                      "startTime": "2026-07-14T10:55:37.492Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -868,11 +808,11 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2026-07-14T10:25:58.106Z",
-    "duration": 8083.447000000001,
-    "expected": 10,
+    "startTime": "2026-07-14T10:55:33.222Z",
+    "duration": 5264.872,
+    "expected": 12,
     "skipped": 0,
-    "unexpected": 7,
+    "unexpected": 5,
     "flaky": 0
   }
 }
